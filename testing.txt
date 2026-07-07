@@ -1,0 +1,1 @@
+This is a text file created from the vim editor for rebasing purposes in order to learn git and master it.
